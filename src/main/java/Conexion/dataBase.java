@@ -47,7 +47,7 @@ public class dataBase extends HttpServlet
             } 
             catch (SQLException ex) 
             {
-                Logger.getLogger(BD.class.getName()).log(Level.SEVERE, null, ex);
+                Logger.getLogger(dataBase.class.getName()).log(Level.SEVERE, null, ex);
             }
         }
     }
