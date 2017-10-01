@@ -19,7 +19,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 
-public class BD extends HttpServlet 
+public class dataBase extends HttpServlet 
 {
     protected void processRequest(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException, ClassNotFoundException 
     {
