@@ -6,7 +6,6 @@
     <artifactId>17-10-25-SegundoCorte</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
-
     <name>17-10-25-SegundoCorte</name>
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
