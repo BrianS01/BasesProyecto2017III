@@ -25,12 +25,5 @@ public class NewClass {
     11
     12
     
-    
-    
-    
-    
-    
-    
-    
-    
+
 }
