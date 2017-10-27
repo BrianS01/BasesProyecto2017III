@@ -10,7 +10,7 @@ package newpackage;
  * @author BRIAN
  */
 public class NewClass {
-    yfyiiu
+
 
 
 }
