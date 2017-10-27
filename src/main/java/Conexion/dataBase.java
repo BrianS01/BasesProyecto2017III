@@ -65,9 +65,12 @@ public class dataBase extends HttpServlet
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
-        try {
+        try
+        {
             processRequest(request, response);
-        } catch (ClassNotFoundException ex) {
+        }
+        catch (ClassNotFoundException ex)
+        {
             Logger.getLogger(BD.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
