@@ -11,16 +11,6 @@ package newpackage;
  */
 public class NewClass {
     yfyiiu
-            
-            12
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
 
 }
