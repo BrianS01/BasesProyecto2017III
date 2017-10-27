@@ -9,8 +9,6 @@ package newpackage;
  *
  * @author BRIAN
  */
-public class NewClass {
-
-
-
+public class NewClass
+{
 }
