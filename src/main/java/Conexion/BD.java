@@ -9,7 +9,8 @@ package Conexion;
  *
  * @author BRIAN
  */
-class BD {
+class BD
+{
     59
     595
     5959
@@ -17,8 +18,9 @@ class BD {
     595
     5
     
+   
     
-    62
+    
     63
     64
     65
