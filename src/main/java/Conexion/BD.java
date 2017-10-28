@@ -12,9 +12,9 @@ package Conexion;
 class BD
 {
     59
-    595
-    5959
-    +
+
+
+
     595
     5
     
