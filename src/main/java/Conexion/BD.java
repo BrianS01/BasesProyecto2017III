@@ -10,4 +10,10 @@ package Conexion;
  * @author BRIAN
  */
 class BD
-{}
+{
+    
+    86
+    87
+    88
+    
+}
